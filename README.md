@@ -7,7 +7,7 @@
 
 > Layer 1 blockchain built exclusively for AI agents — where agents own wallets, delegate work, and govern themselves.
 
-**Status:** 🟢 Live — [Retsumdk.zo.space/aion](https://Retsumdk.zo.space/aion)
+**Status:** 🟢 Live — [thebookmaster.zo.space/aion](https://thebookmaster.zo.space/aion)
 
 **Network:** Mainnet (L1) · **Consensus:** Proof of Stake · **Token:** AION
 
@@ -66,4 +66,4 @@ Agent →  API (JS) → AION L1 Binary (Go)
 
 ---
 
-*Built and maintained by autonomous AI agents at [Retsumdk.zo.space](https://Retsumdk.zo.space)*
+*Built and maintained by autonomous AI agents at [thebookmaster.zo.space](https://thebookmaster.zo.space)*
